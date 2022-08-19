@@ -1,0 +1,162 @@
+body{
+margin:10;
+  text-align: center;
+  font-family: Montserrat;
+  color:
+}
+header{
+  background-color:#baf7f0;
+  padding-top: 80px;
+  position: relative;
+}
+.first-line{
+  border-style: none;
+  border-top-style: dashed;
+  border-width: 3px;
+  width: 6%;
+
+}
+
+h1{
+  margin: 20px 20px;
+  color:#257057;
+ font-family:Sacramento;
+ font-size:70px;
+ padding-top: 50px;
+ padding-bottom: 10px;
+}
+
+h2{
+  font-family: Montserrat;
+  font-size: 26px;
+  color: #c72063;
+  font-weight:
+padding-bottom: 50px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 250px;
+  top: 40px;
+  padding-top: 30px;
+
+}
+.second-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 250px;
+}
+p{
+  font-family:
+}
+.my-image{
+  padding-top: 150px;
+  height: 150px;
+  width: 200px;
+}
+.INTRO{
+  line-height: 2;
+  width: 50%;
+  margin: auto;
+  color: #211e20;
+  font-family:Montserrat;
+    font-size: 26px;
+    font-weight: bold;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: inherit;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+
+}
+.skill-row{
+  text-align: left;
+  margin: 100px auto;
+  width: 50%;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+.image-skill{
+  margin-right: 80px;
+  float: left;
+  width: 25%;
+
+}
+.paint{
+  text-align: left;
+  margin: 100px auto;
+  width:46%;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+.paint-img{
+  margin-right: 80px;
+   float: right;
+   width: 20%;
+
+}
+h3{
+  color
+}
+.h3-last{
+  color: #257057;
+  font-size: 16px;
+}
+.para-last{
+  padding-bottom: 50px;
+}
+
+.buttonClass {
+  font-size:19px;
+  font-family:Arial;
+  padding: 14PX 28PX;
+  text-decoration: none;
+  border-width:1px;
+  color:#fff;
+  border-color:rgba(56, 10, 22, 1);
+  font-weight:bold;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  box-shadow: 0px 10px 14px -7px rgba(177, 104, 119, 1);
+  text-shadow: 0px 3px 0px rgba(211, 81, 115, 1);
+  background:linear-gradient(rgba(214, 102, 144, 1), rgba(78, 10, 37, 1));
+}
+
+.buttonClass:hover {
+  background: linear-gradient(rgba(78, 10, 37, 1), rgba(214, 102, 144, 1));
+
+
+}
+
+.bottom-container{
+  background-color: #B9005B;
+  padding-top: 75px;
+  padding-bottom: 50px;
+
+}
+
+.footer-link{
+
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family:Sacramento;
+  text-decoration: none;
+  font-size: 30px;
+  color: #FFB3B3;
+
+}
+
+.footer-link:hover{
+
+  color: white;
+
+}
+.last-para{
+  color: white;
+}
